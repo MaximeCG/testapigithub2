@@ -1,6 +1,8 @@
 title : Python Prime Number Sieves
 cover: pages/sieve.jpg
 plan:
+  - title: Introduction
+    statement: pages/intro.md
   - title: Python Prime Number Sieves
     statement: pages/sieve.md
 projects:
