@@ -3,7 +3,9 @@ cover: pages/sieve.jpg
 plan:
   - title: Introduction
     statement: pages/intro.md
-  - title: Python Prime Number Sieves
+  - title: Algorithm
+    statement: pages/algorithm.md
+  - title: Implementation
     statement: pages/sieve.md
 projects:
   python:
