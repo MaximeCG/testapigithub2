@@ -1,0 +1,8 @@
+title : Python Prime Number Sieves
+plan:
+  - title: Python Prime Number Sieves
+    statement: pages/sieve.md
+projects:
+  python:
+    root: /sieve
+    runner: python:3
