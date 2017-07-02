@@ -9,6 +9,6 @@ The Sieve, is one of many prime sieves, and is a simple yet time efficient algor
 A prime number is a natural number that has exactly two distinct natural number divisors: 1 and itself.
 Make note that we do not consider 1 a prime number albeit also not being composite.
 
-?[Is 2 a prime number]
-- Yes: It is divisible by itself and 1
-- No: It is a composite
+?[Is 2 a prime number](single)
+- [x] Yes: It is divisible by itself and 1
+- [ ] No: It is a composite
